@@ -36,7 +36,7 @@
       - Apotheseosis
     
     - Other Changes:
-      - Default world type now DEFAULT (this actually includes GeograpiCraft, RTG and BOP)
+      - Default world type now DEFAULT (this actually includes GeographiCraft, RTG and BOP)
       - Config changes to new mods
       - Loading screens initial setup
       - Now using RandomPatches icon and text instead of ITLT
