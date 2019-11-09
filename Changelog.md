@@ -5,7 +5,7 @@
   ## V2 Requires world reset
   ### World type on servers should now be set to DEFAULT
   
-    - Added mods:
+    - Added Mods:
       - Passable Leaves
       - Building Gadgets
       - Mo' Creatures
@@ -21,13 +21,13 @@
       - GeograpiCraft
       - Ultimate Unicorn Mod
       
-    - Removed mods:
+    - Removed Mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
       - Blood Arsenal (Depends on Blood Magic)
       - It's the little things (Not required)
       - Moving light sources (Too buggy)
           
-    - Updated:
+    - Updated Mods:
       - Spartan Weaponry
       - Just Enough Items
       - FTB Utilities
