@@ -1,6 +1,7 @@
-#Changelog
+# Changelog
 <details>
   <summary>BETA V2</summary>
+  **V2 Requires world reset**
   
     - Added mods:
       - Passable Leaves
@@ -18,14 +19,12 @@
       - GeograpiCraft
       - Ultimate Unicorn Mod
       
-      
     - Removed mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
       - Blood Arsenal (Depends on Blood Magic)
       - It's the little things (Not required)
       - Moving light sources (Too buggy)
-      
-      
+          
     - Updated:
       - Spartan Weaponry
       - Just Enough Items
@@ -40,6 +39,5 @@
       - Loading screens initial setup
       - Now using RandomPatches icon and text instead of ITLT
       - Disabled Openblocks internal graves
-      
-    #V2 will require a world reset
+
 </details>
