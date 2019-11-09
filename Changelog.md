@@ -42,6 +42,6 @@
       - Now using RandomPatches icon and text instead of ITLT
       - Disabled Openblocks internal graves
       - Ice and Fire - CarryOn fixes
-      - No longer tells you you are playing Crips of the Multiverse... instead says you are playing CRISPS of the multiverse
+      - No longer says you are playing Crips of the Multiverse... instead says you are playing Crisps of the Multiverse
 
 </details>
