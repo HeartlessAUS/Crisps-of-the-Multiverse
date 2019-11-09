@@ -1,6 +1,32 @@
 #Changelog
 
   - BETA V2:
-    - Added mods:
-      - test
+    + Added mods:
+      - Passable Leaves
+      - Building Gadgets
+      - Mo' Creatures
+      - CustomMobSpawner (Dependency for Mo' Creatures)
+      - LaunchGUI
+      - Colossal Chests
+      - Better Caves
+      - Cooking for Blockheads
+      - Loading Screens
+      - BnbGamingLib (Dependency for Loading Screens)
+      - Astral Sorcery
+      - Realistic Terrain Generation
+      - GeograpiCraft
+      - Ultimate Unicorn Mod
+      
+      
+    - Removed mods:
+      - Blood Magic (Causing crashes due to incompatability with other mods)
+      - Blood Arsenal (Depends on Blood Magic)
+      
+      
+    * Updates:
+      - 
+    
+    
+    ~ Changes:
+      - Default world type now DEFAULT (this actually includes GeograpiCraft, RTG and BOP)
   
