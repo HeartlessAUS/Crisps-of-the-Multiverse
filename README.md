@@ -12,3 +12,5 @@
   5. Import the downloaded zip here
   
   Following the above steps will automatically install the mods, resources and configs to a profile for you to use
+  
+  [Read Changelog here](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/Changelog.md)
