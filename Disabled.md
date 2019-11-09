@@ -4,12 +4,15 @@
 
 
 ### Installation of disabled mods
+
   1. Locate the mods folder (Documents\Curse\Minecraft\Instances\Crisps of the Multiverse\mods)
      - This folder can be found ingame using the clientside mods gui
   2. Locate the disabled folder (Documents\Curse\Minecraft\Instances\Crisps of the Multiverse\mods\disabled)
      - This folder can be found ingame using the clientside mods gui
   3. Once you have chosen mods from the disabled folder that you want loaded, drag them into your mods folder
-  4. Bada bing bada boom, they will now be loaded once your game starts
+  4. Bada bing bada boom, they will now be loaded once you relaunch the modpack
   
   
-- Unfinished
+### List of disabled mods
+
+  - not finished
