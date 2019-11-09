@@ -1,7 +1,8 @@
 #Changelog
-
+<details>
+  <summary>BETA V2</summary>
   - BETA V2:
-    + Added mods:
+    - Added mods:
       - Passable Leaves
       - Building Gadgets
       - Mo' Creatures
@@ -23,10 +24,15 @@
       - Blood Arsenal (Depends on Blood Magic)
       
       
-    * Updates:
-      - 
+    - Updated:
+      - Spartan Weaponry
+      - Just Enough Items
+      - FTB Utilities
+      - FTB Lib
+      - CreativeCore
+      - Apotheseosis
     
-    
-    ~ Changes:
+    - Other Changes:
       - Default world type now DEFAULT (this actually includes GeograpiCraft, RTG and BOP)
-  
+      - Config changes to new mods
+</details>
