@@ -1,5 +1,5 @@
 # Crisps of the Multiverse
-
+![Alt text](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/resources/mainmenu/textures/logo.png?raw=true "Title")
 ## More info to write here overtime
 
 
