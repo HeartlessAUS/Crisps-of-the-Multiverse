@@ -4,3 +4,5 @@
  - RandomPatches Configurable window title/icon over ITLT (https://www.curseforge.com/minecraft/mc-mods/randompatches)
  - Look into electroblob's wizardry issue with respawning with wand, and gravestones..?
  - Geographicraft compatability with RWG and BOP
+ - Loading screens (https://www.curseforge.com/minecraft/mc-mods/loading-screens)
+ - Fix crash on connect to server button
