@@ -4,3 +4,6 @@
  - Loading screens (https://www.curseforge.com/minecraft/mc-mods/loading-screens) (Semi-finished)
  - Fix crash on connect to server button
  - Do default options thingys
+ - Scripts
+ - Quests
+ - Stages
