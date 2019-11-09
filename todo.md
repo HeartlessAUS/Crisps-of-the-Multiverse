@@ -6,3 +6,4 @@
  - Geographicraft compatability with RWG and BOP
  - Loading screens (https://www.curseforge.com/minecraft/mc-mods/loading-screens)
  - Fix crash on connect to server button
+ - Do default options thingys
