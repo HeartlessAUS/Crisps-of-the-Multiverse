@@ -1,9 +1,6 @@
 # Todo:
-
- - Add Cooking for Blockheads (https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
- - RandomPatches Configurable window title/icon over ITLT (https://www.curseforge.com/minecraft/mc-mods/randompatches)
  - Look into electroblob's wizardry issue with respawning with wand, and gravestones..?
- - Geographicraft compatability with RWG and BOP
- - Loading screens (https://www.curseforge.com/minecraft/mc-mods/loading-screens)
+ - Geographicraft compatability with RWG and BOP (Semi-finished)
+ - Loading screens (https://www.curseforge.com/minecraft/mc-mods/loading-screens) (Semi-finished)
  - Fix crash on connect to server button
  - Do default options thingys
