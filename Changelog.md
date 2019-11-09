@@ -2,7 +2,6 @@
 <details>
   <summary>BETA V2</summary>
   
-  - BETA V2:
     - Added mods:
       - Passable Leaves
       - Building Gadgets
