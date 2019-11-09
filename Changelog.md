@@ -1,6 +1,7 @@
 #Changelog
 <details>
   <summary>BETA V2</summary>
+  
   - BETA V2:
     - Added mods:
       - Passable Leaves
@@ -35,4 +36,5 @@
     - Other Changes:
       - Default world type now DEFAULT (this actually includes GeograpiCraft, RTG and BOP)
       - Config changes to new mods
+      
 </details>
