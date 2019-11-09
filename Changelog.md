@@ -20,6 +20,8 @@
       - Realistic Terrain Generation
       - GeograpiCraft
       - Ultimate Unicorn Mod
+      - Googly Eyes (why? because why not)
+      - Morpheus
       
     - Removed Mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
