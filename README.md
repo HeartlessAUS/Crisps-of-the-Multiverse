@@ -14,6 +14,6 @@
   
   [Enable Installed Clientside Mods](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/Disabled.md)
   
-  [Read Changelog](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/Changelog.md)
+  [Changelog](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/Changelog.md)
   
   [Todo List](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/blob/master/Todo.md)
