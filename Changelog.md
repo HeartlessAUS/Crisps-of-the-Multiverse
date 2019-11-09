@@ -22,6 +22,8 @@
     - Removed mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
       - Blood Arsenal (Depends on Blood Magic)
+      - It's the little things (Not required)
+      - Moving light sources (Too buggy)
       
       
     - Updated:
@@ -35,5 +37,8 @@
     - Other Changes:
       - Default world type now DEFAULT (this actually includes GeograpiCraft, RTG and BOP)
       - Config changes to new mods
+      - Loading screens initial setup
+      - Now using RandomPatches icon and text instead of ITLT
+      - Disabled Openblocks internal graves
       
 </details>
