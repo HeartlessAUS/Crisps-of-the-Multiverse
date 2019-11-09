@@ -3,6 +3,7 @@
   <summary>BETA V2</summary>
   
   ## V2 Requires world reset
+  ### World type on servers should now be set to DEFAULT
   
     - Added mods:
       - Passable Leaves
