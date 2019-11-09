@@ -3,7 +3,6 @@
   <summary>BETA V2</summary>
   
   ## V2 Requires world reset
-  ### World type on servers should now be set to DEFAULT
   
     - Added Mods:
       - Passable Leaves
@@ -17,11 +16,13 @@
       - Loading Screens
       - BnbGamingLib (Dependency for Loading Screens)
       - Astral Sorcery
-      - Realistic Terrain Generation
-      - GeograpiCraft
       - Ultimate Unicorn Mod
       - Googly Eyes (why? because why not)
       - Morpheus
+      - Netherendign Ores
+      - Smart Hud
+      - Dynamic Lights
+      
       
     - Removed Mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
@@ -38,7 +39,7 @@
       - Apotheseosis
     
     - Other Changes:
-      - Default world type now DEFAULT (this actually includes GeographiCraft, RTG and BOP)
+      - Dropped torches no longer cause fires
       - Config changes to new mods
       - Loading screens initial setup
       - Now using RandomPatches icon and text instead of ITLT
