@@ -41,5 +41,6 @@
       - Loading screens initial setup
       - Now using RandomPatches icon and text instead of ITLT
       - Disabled Openblocks internal graves
+      - Ice and Fire - CarryOn fixes
 
 </details>
