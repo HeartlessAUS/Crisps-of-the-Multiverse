@@ -1,7 +1,8 @@
 # Changelog
 <details>
   <summary>BETA V2</summary>
-  **V2 Requires world reset**
+  
+  ## V2 Requires world reset
   
     - Added mods:
       - Passable Leaves
