@@ -41,5 +41,5 @@
       - Now using RandomPatches icon and text instead of ITLT
       - Disabled Openblocks internal graves
       
-    ### V2 will require a world reset
+    ###V2 will require a world reset
 </details>
