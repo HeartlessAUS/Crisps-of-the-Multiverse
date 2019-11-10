@@ -7,3 +7,8 @@
  - Scripts
  - Quests
  - Stages
+ - projectE rechoices in whats banned and whats not
+ - Clusters
+ - remove armour chrome and overloaded armour
+ - bloodmoon fix
+ - 
