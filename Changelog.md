@@ -39,6 +39,8 @@
       - Overloaded Armor Bar (See above)
       - Aroma Backup (Fuck these backups, 50 GB of backups within a few days)
       - Aroma Core (Not needed)
+      - RealBench (Not needed)
+      - Angle Ring To Bauble (Not needed)
           
     - Updated Mods:
       - Spartan Weaponry
