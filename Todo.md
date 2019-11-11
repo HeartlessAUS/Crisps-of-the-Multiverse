@@ -8,3 +8,4 @@
  - [ ] Stages
  - [ ] projectE rechoices in whats banned and whats not
  - [ ] Clusters recipes
+ - [ ] Fix harvest craft messing with crafting recipes
