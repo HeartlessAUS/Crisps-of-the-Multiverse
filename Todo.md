@@ -8,4 +8,3 @@
  - [ ] Stages
  - [ ] projectE rechoices in whats banned and whats not
  - [ ] Clusters recipes
- - [ ] remove armour chrome and overloaded armour
