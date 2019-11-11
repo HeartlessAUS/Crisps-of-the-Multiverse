@@ -1,0 +1,28 @@
+# Directories
+.mixin.out/
+astralsorcery/
+betweenlands_gallery/
+ChatTweaks/
+customnpcs/
+fonts/
+journeymap/
+llibrary/
+local/
+logs/
+mods/
+patchouli_books/
+resourcepacks/
+saves/
+structures/
+TombManyGraves/
+tv-cache/
+valkyrielib/
+
+# Loose files
+.curseclient
+crafttweaker.log
+minecraftinstance.json
+options.txt
+patchouli_data.json
+servers.dat
+resources/pack.mcmeta

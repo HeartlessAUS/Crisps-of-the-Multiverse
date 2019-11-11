@@ -1,0 +1,1 @@
+recipes.addShapeless("mega", <contenttweaker:mega_cluster>, [<contenttweaker:aether_cluster>, <contenttweaker:atum_cluster>, <contenttweaker:betweenland_cluster>, <contenttweaker:erebus_cluster>, <contenttweaker:tropicraft_cluster>, <contenttweaker:cavern_cluster>]);
