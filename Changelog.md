@@ -22,13 +22,23 @@
       - Netherendign Ores
       - Smart Hud
       - Dynamic Lights
-      
+      - Content Tweaker
+      - Base (Dependency for Content Tweaker)
       
     - Removed Mods:
       - Blood Magic (Causing crashes due to incompatability with other mods)
       - Blood Arsenal (Depends on Blood Magic)
       - It's the little things (Not required)
       - Moving light sources (Too buggy)
+      - Ordinary Coins (Useless)
+      - SpecialAI (Added a whole bunch of features, alot needed to be disabled, killed it instead)
+      - Fast Furnace (#NotMyFurnace)
+      - Variety O Textures (How did this get here?)
+      - Botania (Causing crash loops for players)
+      - Armor Chroma (Fire and Ice already does this)
+      - Overloaded Armor Bar (See above)
+      - Aroma Backup (Fuck these backups, 50 GB of backups within a few days)
+      - Aroma Core (Not needed)
           
     - Updated Mods:
       - Spartan Weaponry
