@@ -8,6 +8,6 @@
  - [ ] Quests
  - [ ] Stages
  - [ ] projectE rechoices in whats banned and whats not
- - [ ] Clusters
+ - [ ] Clusters recipes
  - [ ] remove armour chrome and overloaded armour
  - [ ] bloodmoon fix
