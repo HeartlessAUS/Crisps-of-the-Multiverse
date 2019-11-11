@@ -4,7 +4,7 @@
 
 #### Installation:
 
-  1. [Download the most recent version of the pack here](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/releases), do not unzip this
+  1. [Download the most recent version of the modpack here](https://github.com/HeartlessAUS/Crisps-of-the-Multiverse/releases), do not unzip this
   2. Open Twitch
   3. Goto Mods, Minecraft, then click Create Custom Profile
   4. Click the small 'import' button
