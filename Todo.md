@@ -10,5 +10,3 @@
  - [ ] Clusters recipes
  - [ ] ProjectE basics require clusters
  - [ ] Add bread recipe via minetweaker, because pam's be big mess
- - [ ] Change Mystical Worlds copper to Thermal Foundation copper
- - [ ] Change Immersive Engineering copper to Thermal Foundation copper
