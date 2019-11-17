@@ -1,5 +1,23 @@
 # Changelog
 <details>
+  <summary>BETA V2.2</summary>
+
+  
+    - Added Mods:
+      - 
+      
+    - Removed Mods:
+      - 
+          
+    - Updated Mods:
+      - 
+    
+    - Other Changes:
+      - 
+
+<details>
+  
+  
   <summary>BETA V2</summary>
   
   ## V2 Requires world reset
