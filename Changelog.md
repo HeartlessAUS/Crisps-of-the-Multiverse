@@ -14,10 +14,9 @@
     
     - Other Changes:
       - 
+</details>
 
 <details>
-  
-  
   <summary>BETA V2</summary>
   
   ## V2 Requires world reset
